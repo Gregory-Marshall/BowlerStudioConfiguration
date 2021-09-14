@@ -12,6 +12,10 @@
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "1631623010309"
     ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "1631623011375"
+    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
       "1631623008316"
@@ -30,10 +34,6 @@
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "capScrew.groovy"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "heatedThreadedInsert.groovy"
     ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
       "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
