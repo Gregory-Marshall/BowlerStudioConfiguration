@@ -3,6 +3,10 @@
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "1631623007726"
+    ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "1631623008316"
     ]
   },
   "studio-open-web": {},
@@ -10,6 +14,10 @@
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
       "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
       "bearing.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
     ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
