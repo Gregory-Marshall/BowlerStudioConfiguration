@@ -12,6 +12,10 @@
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "1631623010860"
     ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "1631828108292"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "1631623007726"
@@ -51,9 +55,9 @@
     "robotGit": "https://github.com/Gregory-Marshall/HephaestusArm2.git"
   },
   "studio-open-git": {
-    "https://github.com/Gregory-Marshall/HephaestusArm2.git:hephaestus.xml": [
-      "https://github.com/Gregory-Marshall/HephaestusArm2.git",
-      "hephaestus.xml"
+    "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "WalkingDriveEngine.groovy"
     ]
   },
   "BowlerStudioConfigs": {
