@@ -50,7 +50,12 @@
     "robotGitFile": "hephaestus.xml",
     "robotGit": "https://github.com/Gregory-Marshall/HephaestusArm2.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Gregory-Marshall/HephaestusArm2.git:hephaestus.xml": [
+      "https://github.com/Gregory-Marshall/HephaestusArm2.git",
+      "hephaestus.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.36.0",
