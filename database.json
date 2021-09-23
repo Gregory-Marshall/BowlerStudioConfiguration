@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "https://github.com/Gregory-Marshall/HephaestusArm2.git": [
-      "Gregory-Marshall/HephaestusArm2",
-      "1631650730288"
-    ],
     "https://github.com/Gregory-Marshall/cadGenHephaestusArm_Gregory-Marshall.git": [
       "https://github.com/Gregory-Marshall/cadGenHephaestusArm_Gregory-Marshall.git",
       "1631732889877"
@@ -11,10 +7,6 @@
     "": [
       "Project ",
       "1632176361755"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "1631623010860"
     ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
@@ -28,14 +20,6 @@
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "1631623010309"
     ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
-      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
-      "1631623011375"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
-      "1631623011895"
-    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
       "1631623008316"
@@ -47,6 +31,26 @@
     "https://github.com/Gregory-Marshall-2023/RoundedCylinderTest_Gregory-Marshall-2023.git": [
       "Gregory-Marshall-2023/RoundedCylinderTest_Gregory-Marshall-2023",
       "1631830930776"
+    ],
+    "https://github.com/Gregory-Marshall/HephaestusArm2.git": [
+      "Gregory-Marshall/HephaestusArm2",
+      "1631650730288"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "1631623010860"
+    ],
+    "https://github.com/Gregory-Marshall/nametagholder.git": [
+      "https://github.com/Gregory-Marshall/nametagholder.git",
+      "1632432328945"
+    ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "1631623011375"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "1631623011895"
     ]
   },
   "studio-open-web": {},
@@ -63,6 +67,10 @@
     "robotGit": "https://github.com/Gregory-Marshall/HephaestusArm2.git"
   },
   "studio-open-git": {
+    "https://github.com/Gregory-Marshall/nametagholder.git:TagHolder.groovy": [
+      "https://github.com/Gregory-Marshall/nametagholder.git",
+      "TagHolder.groovy"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "cadGenHephaestusArm.groovy"
