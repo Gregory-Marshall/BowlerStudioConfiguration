@@ -63,9 +63,9 @@
     "robotGit": "https://github.com/Gregory-Marshall/HephaestusArm2.git"
   },
   "studio-open-git": {
-    "https://github.com/Gregory-Marshall/nametagholder.git:TagHolder.groovy": [
-      "https://github.com/Gregory-Marshall/nametagholder.git",
-      "TagHolder.groovy"
+    "https://github.com/Gregory-Marshall/Modular-Maze.git:Maze-Wall.groovy": [
+      "https://github.com/Gregory-Marshall/Modular-Maze.git",
+      "Maze-Wall.groovy"
     ]
   },
   "BowlerStudioConfigs": {
