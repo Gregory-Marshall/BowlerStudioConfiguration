@@ -4,21 +4,9 @@
       "https://github.com/Gregory-Marshall/cadGenHephaestusArm_Gregory-Marshall.git",
       "1631732889877"
     ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "1631828108292"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "1631623007726"
-    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "1631623010309"
-    ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
-      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
-      "1631623008316"
     ],
     "https://github.com/Gregory-Marshall/Modular-Maze.git": [
       "Gregory-Marshall/Modular-Maze",
@@ -27,10 +15,6 @@
     "https://github.com/Gregory-Marshall/cube_Gregory-Marshall.git": [
       "https://github.com/Gregory-Marshall/cube_Gregory-Marshall.git",
       "1631743897713"
-    ],
-    "https://github.com/Gregory-Marshall-2023/RoundedCylinderTest_Gregory-Marshall-2023.git": [
-      "Gregory-Marshall-2023/RoundedCylinderTest_Gregory-Marshall-2023",
-      "1631830930776"
     ],
     "https://github.com/Gregory-Marshall/HephaestusArm2.git": [
       "Gregory-Marshall/HephaestusArm2",
@@ -47,10 +31,6 @@
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
       "1631623011375"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
-      "1631623011895"
     ]
   },
   "studio-open-web": {},
